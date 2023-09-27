@@ -2,7 +2,7 @@
 ## Resources
 **Read or watch:**
 * [What Is “The Shell”?](http://linuxcommand.org/lc3_lts0010.php)
-* [Navigation] (http://linuxcommand.org/lc3_lts0020.php)
+* [Navigation](http://linuxcommand.org/lc3_lts0020.php)
 * Looking Around
 * A Guided Tour
 * Manipulating Files
@@ -10,7 +10,8 @@
 * Reading Man pages
 * Keyboard shortcuts for Bash
 * LTS
-* [Shebang] (https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+* [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+
 **man or help:**
 cd
 ls
